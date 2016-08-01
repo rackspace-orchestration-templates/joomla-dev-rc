@@ -94,6 +94,7 @@ instructions: |
 
 user-input-required: true
 description: |
+  ####Development - RCv3
   This stack is running the latest version of
   [Joomla](http://joomla.org/),
   [nginx](https://www.nginx.com/),
