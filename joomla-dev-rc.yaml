@@ -1,7 +1,7 @@
 heat_template_version: 2015-10-15
 
 description: |
-  ####Development - RCv3
+  #### Development - RCv3
   This stack is running the latest version of
   [Joomla](http://joomla.org/),
   [nginx](https://www.nginx.com/),
